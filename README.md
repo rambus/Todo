@@ -1,7 +1,7 @@
 
-# webpack starter
+# Agenda de tareas
 
-este es el proyecto inicial para crear aplicaciones usando webpack.
+esto es una agenda para asignar tareas y visualizarlas como completadas o pendientes, se pueden añadir y borrar tareas.
 
 ### Notas: reconstruir los módulos de node
 
